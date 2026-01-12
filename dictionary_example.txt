@@ -1,0 +1,3 @@
+﻿Old Camp,Altes Lager
+New Camp,Neues Lager
+Swamp Camp,Sumpflager
